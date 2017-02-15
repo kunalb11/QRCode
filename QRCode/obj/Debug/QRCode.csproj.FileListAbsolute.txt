@@ -1,0 +1,13 @@
+c:\users\fpi\documents\visual studio 2015\Projects\QRCode\QRCode\bin\Debug\QRCode.exe.config
+c:\users\fpi\documents\visual studio 2015\Projects\QRCode\QRCode\obj\Debug\QRCode.csprojResolveAssemblyReference.cache
+c:\users\fpi\documents\visual studio 2015\Projects\QRCode\QRCode\obj\Debug\QRCode.Form1.resources
+c:\users\fpi\documents\visual studio 2015\Projects\QRCode\QRCode\obj\Debug\QRCode.Properties.Resources.resources
+c:\users\fpi\documents\visual studio 2015\Projects\QRCode\QRCode\obj\Debug\QRCode.csproj.GenerateResource.Cache
+c:\users\fpi\documents\visual studio 2015\Projects\QRCode\QRCode\bin\Debug\QRCode.exe
+c:\users\fpi\documents\visual studio 2015\Projects\QRCode\QRCode\bin\Debug\QRCode.pdb
+c:\users\fpi\documents\visual studio 2015\Projects\QRCode\QRCode\bin\Debug\MessagingToolkit.QRCode.dll
+c:\users\fpi\documents\visual studio 2015\Projects\QRCode\QRCode\obj\Debug\QRCode.exe
+c:\users\fpi\documents\visual studio 2015\Projects\QRCode\QRCode\obj\Debug\QRCode.pdb
+C:\Users\FPI\Documents\GitHub\QRcode\QRCode\bin\Debug\QRCode.exe.config
+C:\Users\FPI\Documents\GitHub\QRcode\QRCode\obj\Debug\QRCode.exe
+C:\Users\FPI\Documents\GitHub\QRcode\QRCode\obj\Debug\QRCode.pdb
