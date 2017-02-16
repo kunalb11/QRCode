@@ -11,3 +11,6 @@ c:\users\fpi\documents\visual studio 2015\Projects\QRCode\QRCode\obj\Debug\QRCod
 C:\Users\FPI\Documents\GitHub\QRcode\QRCode\bin\Debug\QRCode.exe.config
 C:\Users\FPI\Documents\GitHub\QRcode\QRCode\obj\Debug\QRCode.exe
 C:\Users\FPI\Documents\GitHub\QRcode\QRCode\obj\Debug\QRCode.pdb
+C:\Users\FPI\Desktop\QRcode\QRCode\bin\Debug\QRCode.exe.config
+C:\Users\FPI\Desktop\QRcode\QRCode\obj\Debug\QRCode.exe
+C:\Users\FPI\Desktop\QRcode\QRCode\obj\Debug\QRCode.pdb
